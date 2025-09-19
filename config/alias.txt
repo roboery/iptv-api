@@ -27,6 +27,6 @@ CCTV-4K,CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K
 CCTV-8K,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
 
 中天新闻,中天新聞,中天电视,中天電視,CTITV
-中视新闻,中視新聞
-三立新闻,三立iNEWS
+中視新聞,中视新闻
+三立iNEWS,三立新闻
 TVBS NEWS,tvbs新聞
