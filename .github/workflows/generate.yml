@@ -1,5 +1,5 @@
 
-name: 'Generate IPTV TXT and Update schedule'
+name: Update schedule
 
 on:
   workflow_dispatch:
