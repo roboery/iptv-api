@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-19 16:08:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-09-19 16:21:22,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -45,6 +45,7 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20250919140037f2b0c91989ea42078dec94f2b3e869e9&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20250919140037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.88&SecurityKey=20250919140037&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a175937b483b83a6bcb18333225d8f38&ddCalcu=8a31ef71858d9053272b3438338b18b3cab6
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
@@ -118,4 +119,5 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 
 ☘️港澳台频道,#genre#
 中天新闻,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中視新聞,https://www.youtube.com/watch?v=baDV1O5EBP0
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
