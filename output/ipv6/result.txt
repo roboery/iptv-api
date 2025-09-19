@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-19 14:51:40,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-09-19 15:06:03,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -44,6 +44,7 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
@@ -119,5 +120,9 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 ☘️港澳台频道,#genre#
 中天新闻,https://www.youtube.com/watch?v=vr3XyVCR4T0
 中天新闻,https://www.youtube.com/watch?v=y0t29gZnH6k
+中視新聞,https://www.youtube.com/watch?v=baDV1O5EBP0
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立iNEWS,https://www.youtube.com/watch?v=motSB4XSB3c
 TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS NEWS,https://www.youtube.com/watch?v=IpZIy6g8sgE

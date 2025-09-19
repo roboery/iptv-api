@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250919145140 +0800">
+<tv date="20250919150603 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1952,6 +1952,81 @@
 	</programme>
 	<programme channel="东方卫视" start="20250919234000 +0800" stop="20250919235900 +0800">
 		<title lang="zh">纳粹警示录（3）</title>
+	</programme>
+	<channel id="中視新聞">
+		<display-name lang="zh">中視新聞</display-name>
+	</channel>
+	<programme channel="中視新聞" start="20250919000000 +0800" stop="20250919010000 +0800">
+		<title lang="zh">即时新闻现场第18集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919010000 +0800" stop="20250919020000 +0800">
+		<title lang="zh">庶民大头家第1522集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919020000 +0800" stop="20250919030000 +0800">
+		<title lang="zh">庶民大头家第1522集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919030000 +0800" stop="20250919040000 +0800">
+		<title lang="zh">中视新闻全球报导第18集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919040000 +0800" stop="20250919050000 +0800">
+		<title lang="zh">即时新闻现场第18集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919050000 +0800" stop="20250919060000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报第18集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919060000 +0800" stop="20250919070000 +0800">
+		<title lang="zh">中视新闻全球报导第18集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919070000 +0800" stop="20250919080000 +0800">
+		<title lang="zh">中视早安新闻第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919080000 +0800" stop="20250919090000 +0800">
+		<title lang="zh">整点新闻第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919090000 +0800" stop="20250919100000 +0800">
+		<title lang="zh">即时新闻现场第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919100000 +0800" stop="20250919110000 +0800">
+		<title lang="zh">庶民大头家第1522集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919110000 +0800" stop="20250919115800 +0800">
+		<title lang="zh">庶民大头家第1522集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919115800 +0800" stop="20250919130000 +0800">
+		<title lang="zh">中视午间新闻第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919130000 +0800" stop="20250919140000 +0800">
+		<title lang="zh">即时新闻现场第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919140000 +0800" stop="20250919150000 +0800">
+		<title lang="zh">即时新闻现场第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919150000 +0800" stop="20250919160000 +0800">
+		<title lang="zh">即时新闻现场第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919160000 +0800" stop="20250919170000 +0800">
+		<title lang="zh">庶民大头家第1523集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919170000 +0800" stop="20250919180000 +0800">
+		<title lang="zh">庶民大头家第1523集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919180000 +0800" stop="20250919185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919185800 +0800" stop="20250919200000 +0800">
+		<title lang="zh">中视新闻全球报导第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919200000 +0800" stop="20250919210000 +0800">
+		<title lang="zh">庶民大头家第1523集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919210000 +0800" stop="20250919220000 +0800">
+		<title lang="zh">庶民大头家第1523集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919220000 +0800" stop="20250919230000 +0800">
+		<title lang="zh">即时新闻现场第19集</title>
+	</programme>
+	<programme channel="中視新聞" start="20250919230000 +0800" stop="20250919235900 +0800">
+		<title lang="zh">中视新闻全球报导第19集</title>
 	</programme>
 	<channel id="云南卫视">
 		<display-name lang="zh">云南卫视</display-name>
