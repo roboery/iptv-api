@@ -41,6 +41,10 @@ jobs:
         run: pipenv --python 3.13 && pipenv install --deploy
       - name: Update
         run: pipenv run dev
+      - name: Update README timestamp
+        run: |
+          sed -i '/最后更新:/d' README.md
+          echo "最后更新: $(date +'%Y-%m-%d %H:%M:%S')" >> README.md
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
