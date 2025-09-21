@@ -1,39 +1,38 @@
 🕘️更新时间,#genre#
-2025-09-21 10:03:54,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-09-21 14:41:32,http://112.27.235.94:8000/hls/4/index.m3u8
 
 📺央视频道,#genre#
-CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://112.27.235.94:8000/hls/4/index.m3u8
+CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+CCTV-15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 浙江卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=33
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=32
 北京卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=36
-北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 湖北卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=42
+湖北卫视,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv
 安徽卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=37
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 东方卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=34
 东南卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=41
-贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+江苏卫视,http://kbtv.zkbhj.com/liveRedirect/hotel.php?p=sdjn&id=35
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
 辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+内蒙古卫视,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws&key=txiptv
+云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
 
 ☘️港澳台频道,#genre#
