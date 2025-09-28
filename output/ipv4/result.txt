@@ -1,43 +1,39 @@
 🕘️更新时间,#genre#
-2025-09-28 14:40:28,http://ygbh.site/php/bfgd.php?id=488
+2025-09-28 20:52:23,http://ygbh.site/php/bfgd.php?id=488
 
 📺央视频道,#genre#
 CCTV-1,http://ygbh.site/php/bfgd.php?id=488
 CCTV-2,http://ygbh.site/php/bfgd.php?id=061
+CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV-3,http://ygbh.site/php/bfgd.php?id=062
-CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://ygbh.site/php/bfgd.php?id=063
 CCTV-5,http://ygbh.site/php/bfgd.php?id=064
-CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://ygbh.site/php/bfgd.php?id=127
+CCTV-7,http://1.180.2.93:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV-8,http://ygbh.site/php/bfgd.php?id=066
 CCTV-9,http://ygbh.site/php/bfgd.php?id=128
 CCTV-10,http://ygbh.site/php/bfgd.php?id=129
 CCTV-11,http://ygbh.site/php/bfgd.php?id=130
 CCTV-12,http://ygbh.site/php/bfgd.php?id=131
-CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv
 CCTV-13,http://ygbh.site/php/bfgd.php?id=067
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://ygbh.site/php/bfgd.php?id=132
 CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 CCTV-17,http://ygbh.site/php/bfgd.php?id=204
 CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 
 📡卫视频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv
 湖北卫视,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv
+黑龙江卫视,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8
+重庆卫视,http://61.156.228.12:8154/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-内蒙古卫视,http://1.180.2.93:9901/tsfile/live/1068_1.m3u8
+辽宁卫视,http://1.180.2.93:9901/tsfile/live/0121_1.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 
 ☘️港澳台频道,#genre#
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
