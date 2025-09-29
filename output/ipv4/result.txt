@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2025-09-29 14:46:57,http://ygbh.site/php/bfgd.php?id=488
+2025-09-29 21:02:07,http://ygbh.site/php/bfgd.php?id=488
 
 📺央视频道,#genre#
 CCTV-1,http://ygbh.site/php/bfgd.php?id=488
 CCTV-2,http://ygbh.site/php/bfgd.php?id=061
-CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV-3,http://ygbh.site/php/bfgd.php?id=062
 CCTV-4,http://ygbh.site/php/bfgd.php?id=063
 CCTV-5,http://ygbh.site/php/bfgd.php?id=064
@@ -18,23 +17,32 @@ CCTV-12,http://ygbh.site/php/bfgd.php?id=131
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,http://ygbh.site/php/bfgd.php?id=067
 CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-14,http://60.16.0.216:5757/hls/15/index.m3u8
 CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 CCTV-17,http://ygbh.site/php/bfgd.php?id=204
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 
 📡卫视频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+吉林卫视,http://ygbh.site/php/bfgd.php?id=097
+江苏卫视,http://ygbh.site/php/bfgd.php?id=085
+江西卫视,http://ygbh.site/php/bfgd.php?id=098
+辽宁卫视,http://ygbh.site/php/bfgd.php?id=058
+内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110
+宁夏卫视,http://ygbh.site/php/bfgd.php?id=118
+青海卫视,http://ygbh.site/php/bfgd.php?id=111
+山东卫视,http://ygbh.site/php/bfgd.php?id=099
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+山西卫视,http://ygbh.site/php/bfgd.php?id=109
+四川卫视,http://ygbh.site/php/bfgd.php?id=103
+深圳卫视,http://ygbh.site/php/bfgd.php?id=100
+天津卫视,http://ygbh.site/php/bfgd.php?id=084
+西藏卫视,http://ygbh.site/php/bfgd.php?id=121
 西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+新疆卫视,http://ygbh.site/php/bfgd.php?id=150
 
 ☘️港澳台频道,#genre#
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
