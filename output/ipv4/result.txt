@@ -1,19 +1,55 @@
 🕘️更新时间,#genre#
-2025-09-30 14:43:36,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+2025-09-30 21:00:00,http://t.061899.xyz/tl/dq.php?id=cctv1
 
 📺央视频道,#genre#
+CCTV-1,http://t.061899.xyz/tl/dq.php?id=cctv1
+CCTV-2,http://t.061899.xyz/tl/dq.php?id=cctv2
+CCTV-3,http://t.061899.xyz/tl/dq.php?id=cctv3
+CCTV-4,http://t.061899.xyz/tl/dq.php?id=cctv4
+CCTV-5,http://t.061899.xyz/tl/dq.php?id=cctv5
+CCTV-6,http://t.061899.xyz/tl/dq.php?id=cctv6
+CCTV-7,http://t.061899.xyz/tl/dq.php?id=cctv7
+CCTV-8,http://t.061899.xyz/tl/dq.php?id=cctv8
+CCTV-9,http://t.061899.xyz/tl/dq.php?id=cctv9
+CCTV-10,http://t.061899.xyz/tl/dq.php?id=cctv10
+CCTV-11,http://t.061899.xyz/tl/dq.php?id=cctv11
+CCTV-12,http://t.061899.xyz/tl/dq.php?id=cctv12
+CCTV-13,http://t.061899.xyz/tl/dq.php?id=cctv13
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14,http://t.061899.xyz/tl/dq.php?id=cctv14
+CCTV-15,http://t.061899.xyz/tl/dq.php?id=cctv15
+CCTV-16,http://t.061899.xyz/tl/dq.php?id=cctv16
+CCTV-17,http://t.061899.xyz/tl/dq.php?id=cctv17
+CCTV-5+,http://t.061899.xyz/tl/dq.php?id=cctv5p
 
 📡卫视频道,#genre#
+广东卫视,http://t.061899.xyz/tl/dq.php?id=gdws
+浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
+湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
+湖北卫视,http://t.061899.xyz/tl/dq.php?id=hubws
+黑龙江卫视,http://t.061899.xyz/tl/dq.php?id=hljws
+重庆卫视,http://t.061899.xyz/tl/dq.php?id=cqws
+东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+东南卫视,http://t.061899.xyz/tl/dq.php?id=dnws
+甘肃卫视,http://t.061899.xyz/tl/dq.php?id=gsws
+甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
+贵州卫视,http://t.061899.xyz/tl/dq.php?id=gzws
+贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8
+海南卫视,http://t.061899.xyz/tl/dq.php?id=hinws
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
+河南卫视,http://t.061899.xyz/tl/dq.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+吉林卫视,http://t.061899.xyz/tl/dq.php?id=jlws
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8
 
 ☘️港澳台频道,#genre#
 中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
