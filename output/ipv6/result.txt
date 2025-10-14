@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-14 21:00:10,https://cc06.tv12.xyz/1.m3u8
+2025-10-15 02:42:36,https://cc06.tv12.xyz/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://cc06.tv12.xyz/1.m3u8
@@ -40,7 +40,6 @@ CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=202510142000349ef4868e9bbf499a84880546131ace63&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251014200034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.89&SecurityKey=20251014200034&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=57ba9c6eaf54389228a5fa1080e27b83&ddCalcu=3587ebb17a3290ec068e0a1fa5f453a88922
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-13,https://cc06.tv12.xyz/14.m3u8
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=202510142000343aec121ff9e24384acbcafd288ca7cbb&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251014200034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.89&SecurityKey=20251014200034&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=26c94126cd11de2a33265504e14618c6&ddCalcu=62c6e8c11986404112e64c0d51516d2e323a
@@ -61,6 +60,7 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 广东卫视,https://cc06.tv12.xyz/43.m3u8
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 浙江卫视,https://cc06.tv12.xyz/117.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 湖南卫视,https://cc06.tv12.xyz/57.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
@@ -95,7 +95,7 @@ CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 河南卫视,https://cc06.tv12.xyz/49.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2be1e4dae35e86256f802294a60f4aa0&wsTime=1760457628
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d579e28c701dd380354273635235db96&wsTime=1760479202
 河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202510142000368e698b6c065948229139b858cf5dcd4f&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251014200036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.89&SecurityKey=20251014200036&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=36e410eaab73a68cc270368c6c61f5c8&ddCalcu=83c6e5e1f4011060ce6aca8b67330a7628cc
 吉林卫视,https://cc06.tv12.xyz/60.m3u8
 吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251014200036c261185b3c704bd6994fe0fb02fd63fa&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251014200036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.89&SecurityKey=20251014200036&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e5455e5e245a0bf4b71437374b9d91fe&ddCalcu=eef5e141957d509eb54e7234753a401b7fb4
