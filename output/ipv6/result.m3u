@@ -37,23 +37,23 @@ http://58.46.29.225:8188/udp/239.76.252.238:9000
 https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV-4K.png" group-title="📺央视频道",CCTV-4K超高清
 http://113.119.26.77:58888/udp/239.77.0.194:5146
-#EXTINF:-1 group-title="📺央视频道",CCTV-兵器科技
+#EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-兵器科技.png" group-title="📺央视频道",CCTV-兵器科技
 http://113.119.26.77:58888/udp/239.253.43.9:5146
-#EXTINF:-1 group-title="📺央视频道",CCTV-第一剧场
+#EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-第一剧场.png" group-title="📺央视频道",CCTV-第一剧场
 http://113.119.26.77:58888/udp/239.253.43.15:5146
-#EXTINF:-1 group-title="📺央视频道",CCTV-电视指南
+#EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-电视指南.png" group-title="📺央视频道",CCTV-电视指南
 http://118.78.196.32:55555/rtp/226.0.2.218:9656
-#EXTINF:-1 group-title="📺央视频道",CCTV-风云剧场
+#EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-风云剧场.png" group-title="📺央视频道",CCTV-风云剧场
 http://175.8.183.10:7878/udp/239.76.254.50:9000
-#EXTINF:-1 group-title="📺央视频道",CCTV-风云音乐
+#EXTINF:-1 tvg-name="CCTV-第一音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-第一音乐.png" group-title="📺央视频道",CCTV-风云音乐
 http://183.236.43.98:4013/udp/239.253.43.6:5146
-#EXTINF:-1 group-title="📺央视频道",CCTV-怀旧剧场
+#EXTINF:-1 tvg-name="CCTV-怀旧剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-怀旧剧场.png" group-title="📺央视频道",CCTV-怀旧剧场
 http://113.119.26.77:58888/udp/239.253.43.5:5146
-#EXTINF:-1 group-title="📺央视频道",CCTV-女性时尚
+#EXTINF:-1 tvg-name="CCTV-女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-女性时尚.png" group-title="📺央视频道",CCTV-女性时尚
 http://113.119.26.77:58888/udp/239.253.43.8:5146
-#EXTINF:-1 group-title="📺央视频道",CCTV-世界地理
+#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-世界地理.png" group-title="📺央视频道",CCTV-世界地理
 http://59.173.120.39:4022/rtp/239.69.1.91:10186
-#EXTINF:-1 group-title="📺央视频道",CCTV-文化精品
+#EXTINF:-1 tvg-name="CCTV-文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-文化精品.png" group-title="📺央视频道",CCTV-文化精品
 http://118.78.196.32:55555/rtp/226.0.2.219:9664
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
