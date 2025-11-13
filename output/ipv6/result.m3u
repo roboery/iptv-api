@@ -32,9 +32,9 @@ http://183.222.242.31:8088/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
 https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://58.46.29.225:8188/udp/239.76.252.238:9000
+http://zqh2333.top:2222/rtp/239.93.24.92:5140
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+https://stream1.freetv.fun/88ee08d5c5e75e963f46cba8142888798dde687981709eda707a0b192da8ad4d.ctv
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV-4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV-4K.png" group-title="📺央视频道",CCTV-4K超高清
 http://113.119.26.77:58888/udp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-兵器科技.png" group-title="📺央视频道",CCTV-兵器科技
@@ -56,13 +56,13 @@ http://59.173.120.39:4022/rtp/239.69.1.91:10186
 #EXTINF:-1 tvg-name="CCTV-文化精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-文化精品.png" group-title="📺央视频道",CCTV-文化精品
 
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
-https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+http://117.174.25.254:8188/rtp/239.0.0.51:5140
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视频道",CETV3
 https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
-https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+http://117.174.25.254:8188/rtp/239.0.0.98:5140
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://218.15.183.23:9901/tsfile/live/23008_1.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视4K.png" group-title="📡卫视频道",广东4K超高清
@@ -172,7 +172,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/中視新聞.png" group-title="☘️港澳台频道",中視新聞
 
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVBS NEWS.png" group-title="☘️港澳台频道",TVBS NEWS
-
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="港澳台频道",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台频道",TVB无线星河
@@ -194,7 +194,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="港澳台频道",非凡新闻
 
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/EBC2.png" group-title="港澳台频道",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8#rtmp://f13h.mine.nu/sat/tv331
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="港澳台频道",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/MOMOTV.png" group-title="港澳台频道",MOMO TV
