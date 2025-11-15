@@ -42,7 +42,7 @@ http://113.119.26.77:58888/udp/239.253.43.9:5146
 #EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-第一剧场.png" group-title="📺央视频道",CCTV-第一剧场
 http://113.119.26.77:58888/udp/239.253.43.15:5146
 #EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-电视指南.png" group-title="📺央视频道",CCTV-电视指南
-
+http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 #EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-风云剧场.png" group-title="📺央视频道",CCTV-风云剧场
 
 #EXTINF:-1 tvg-name="CCTV-第一音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV-第一音乐.png" group-title="📺央视频道",CCTV-风云音乐
@@ -65,8 +65,18 @@ https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 http://117.174.25.254:8188/rtp/239.0.0.98:5140
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://218.15.183.23:9901/tsfile/live/23008_1.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视4K.png" group-title="📡卫视频道",广东4K超高清
-http://113.119.26.77:58888/udp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="33" tvg-name="苏州4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/苏州4K.png" group-title="📡卫视频道",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="南国都市4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/南国都市4K.png" group-title="📡卫视频道",南国都市4K
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视4K.png" group-title="📡卫视频道",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="33" tvg-name="深圳卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视4K.png" group-title="📡卫视频道",深圳卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+#EXTINF:-1 tvg-id="33" tvg-name="北京卫视4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视4K.png" group-title="📡卫视频道",北京卫视4K
+http://183.220.107.138:4022/rtp/239.10.0.92:5140
+#EXTINF:-1 tvg-id="33" tvg-name="河北4K" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北4K.png" group-title="📡卫视频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/香港卫视.png" group-title="📡卫视频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
