@@ -170,7 +170,7 @@ http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港澳台频道",凤凰资讯高清
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港澳台频道",凤凰香港高清
-http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+https://httop.top/fengshows-fenghk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Phoenix4.png" group-title="港澳台频道",凤凰电影
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="港港澳台频道",J2
@@ -208,7 +208,7 @@ http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="港澳台频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVBS NEWS.png" group-title="港澳台频道",TVBS NEWS
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+http://210.61.15.55:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/寰宇新闻.png" group-title="港澳台频道",寰宇新闻
 https://live.catvod.com/iptv.php?id=hy_xw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Lotus.png" group-title="港澳台频道",莲花卫视
@@ -232,7 +232,7 @@ http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="港澳台频道",中天综合
 http://orz.jkun.cf/smt.php?id=ctizhonghe
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="港澳台频道",tvbs新闻
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
+http://210.61.15.55:50007/li-4gtv-4gtv072/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="港澳台频道",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="港澳台频道",三立戏剧
